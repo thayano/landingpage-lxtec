@@ -1,3 +1,10 @@
+# 1.0.0 (2025-07-03)
+
+
+### Features
+
+* add pagina saiba-mais e melhorias ([0c003ce](https://github.com/thayano/landingpage-lxtec/commit/0c003ce79748dac997c06a03862759e8a3283839))
+
 ## [1.7.6](https://github.com/ixartz/SaaS-Boilerplate/compare/v1.7.5...v1.7.6) (2025-05-01)
 
 
