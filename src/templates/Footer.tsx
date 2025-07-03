@@ -61,7 +61,7 @@ const dataFooterLinks: FooterLinks[] = [
 ];
 export const Footer = () => {
   return (
-    <Background className="bg-gradient-to-b from-[#2A3F59] to-gray-900">
+    <Background className="bg-gradient-to-b from-[#2A3F59] to-black">
       <Section className="py-16">
         <CTA />
         <CenteredFooter

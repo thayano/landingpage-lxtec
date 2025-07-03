@@ -1,0 +1,103 @@
+import type { FeatureCardTypes } from '@/types/Data';
+
+export const dataProduct: FeatureCardTypes[] = [
+  {
+    title: 'GESTÃO DE PROCESSOS',
+    description: 'Organize, agilize e transforme a gestão de processos com tecnologia eficiente e segura. Menos burocracia, mais resultados.',
+    color: 'red',
+    subtitle: 'Lx Processos',
+    link: '/produtos/1',
+    priority: true,
+  },
+  {
+    title: 'ASSINATURA DIGITAL',
+    description: 'Assine documentos com validade jurídica de forma simples, rápida e segura. Mobilidade, agilidade e menos papel no seu dia a dia.',
+    color: 'blue',
+    subtitle: 'Lx Sign',
+    link: '/produtos/2',
+    priority: true,
+  },
+  {
+    title: 'GESTÃO DE DOCUMENTOS',
+    description: 'Organize, armazene e acesse seus documentos com agilidade e segurança. Controle total, digitalização simplificada e menos papel.',
+    color: 'orange',
+    subtitle: 'Lx GED',
+    link: '/produtos/3',
+    priority: true,
+  },
+  {
+    title: 'GESTÃO DE OUVIDORIA',
+    description: 'Centralize, gerencie e responda às manifestações de seus clientes ou cidadãos com transparência e eficiência. Fortaleça a confiança e melhore seus serviços.',
+    color: 'darkBlue',
+    subtitle: 'Lx Ouvidoria',
+    link: '/produtos/4',
+    priority: false,
+  },
+  {
+    title: 'GESTÃO E ORGANIZAÇÃO DO TRABALHO',
+    description: 'Planeje, delegue e monitore as tarefas da sua equipe com total visibilidade e controle. Aumente a produtividade e garanta entregas no prazo.',
+    color: 'rose',
+    subtitle: 'Lx Control',
+    link: '/produtos/5',
+    priority: false,
+  },
+  {
+    title: 'GESTÃO DE TICKETS',
+    description: 'Centralize, priorize e resolva os chamados de suporte com agilidade e automação. Menos tempo de espera, mais clientes satisfeitos.',
+    color: 'cyan',
+    subtitle: 'Lx Chamados',
+    link: '/produtos/6',
+    priority: false,
+  },
+];
+
+export const dataService: FeatureCardTypes[] = [
+  {
+    title: 'Administração de Servidores',
+    description: 'Monitoramento, manutenção e suporte completo para garantir a alta disponibilidade e segurança dos seus servidores.',
+    color: 'red',
+    subtitle: 'Consultoria de T.I.',
+    link: '/servicos/1',
+    priority: true,
+  },
+  {
+    title: 'Administração de Redes',
+    description: 'Gestão completa da infraestrutura de redes com foco em segurança, desempenho e conectividade contínua.',
+    color: 'blue',
+    subtitle: 'Suporte especializado',
+    link: '/servicos/2',
+    priority: true,
+  },
+  {
+    title: 'Locação de Servidores e Impressoras',
+    description: 'Reduza custos com a locação de equipamentos de alta performance, com suporte e manutenção inclusos.',
+    color: 'orange',
+    subtitle: 'Outsourcing de Hardware',
+    link: '/servicos/3',
+    priority: true,
+  },
+  {
+    title: 'GESTÃO DE OUVIDORIA',
+    description: 'Centralize, gerencie e responda às manifestações de seus clientes ou cidadãos com transparência e eficiência. Fortaleça a confiança e melhore seus serviços.',
+    color: 'darkBlue',
+    subtitle: 'Lx Ouvidoria',
+    link: '/servicos/4',
+    priority: false,
+  },
+  {
+    title: 'GESTÃO E ORGANIZAÇÃO DO TRABALHO',
+    description: 'Planeje, delegue e monitore as tarefas da sua equipe com total visibilidade e controle. Aumente a produtividade e garanta entregas no prazo.',
+    color: 'rose',
+    subtitle: 'Lx Control',
+    link: '/servicos/5',
+    priority: false,
+  },
+  {
+    title: 'GESTÃO DE TICKETS',
+    description: 'Centralize, priorize e resolva os chamados de suporte com agilidade e automação. Menos tempo de espera, mais clientes satisfeitos.',
+    color: 'cyan',
+    subtitle: 'Lx Chamados',
+    link: '/servicos/6',
+    priority: false,
+  },
+];

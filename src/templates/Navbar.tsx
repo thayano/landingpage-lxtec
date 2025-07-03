@@ -41,7 +41,7 @@ export const Navbar = (props: {
         </li>
 
         <li>
-          <Link href="/sign-up">{t('service')}</Link>
+          <Link href="/saiba-mais">Sobre Nós</Link>
         </li>
       </CenteredMenu>
     </Section>

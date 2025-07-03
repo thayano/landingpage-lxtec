@@ -23,7 +23,7 @@ export const LinkList = (props: LinkListProps) => {
             : (
                 <>
                   <span>{item.title}</span>
-                  <article className="text-xs text-muted-foreground">
+                  <article className="text-xs text-[#a4a4a5]">
                     {item.description}
                   </article>
                 </>

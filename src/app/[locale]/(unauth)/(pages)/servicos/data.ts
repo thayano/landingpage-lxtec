@@ -36,7 +36,7 @@ export const servicos: servicosProps[] = [
     image2: image_processos,
   },
   {
-    id: 2,
+    id: 3,
     title: 'Locação de Servidores e Impressoras',
     subtitle: 'Outsourcing de Hardware',
 

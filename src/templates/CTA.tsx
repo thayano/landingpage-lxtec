@@ -10,8 +10,8 @@ export const CTA = () => {
   return (
     <Section>
       <CTABanner
-        title="Cada desafio tem a solução certa. Vamos encontrar a sua?"
-        description=""
+        title="Cada desafio tem a solução certa. "
+        description="Vamos encontrar a sua?"
         buttons={(
           <div className="flex flex-col items-center justify-center gap-10 text-white">
             <Button
